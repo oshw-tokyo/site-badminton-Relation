@@ -2,9 +2,9 @@
 title: Contact
 date: 2017-11-09T14:50:58+02:00
 draft: false
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero porro tempore voluptas voluptatibus eius a non numquam, quibusdam enim eos.
+description: 準備中...
 header:
-  description: Every project starts with a <span class="accent-text">conversation</span>, just drop me a line and let's create something great together.
+  description: <span class="accent-text">現在、メンバーを募集</span>しています！
   image:
     url: contact-hero.png
     alt: The chair for meeting image
@@ -15,6 +15,12 @@ header:
     - options: 565x420 Center
     - options: 360x318
 text_groups:
-  - name: Collaboration
-    description: <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, atque officiis ut, veritatis reiciendis sequi quos officia quidem tempora minus fugit a suscipit nulla possimus?</p><br/><p>Let's get started&#58; <a class="accent-text bold-text" href="mailto:hello@example.com?subject=Hello,%20Yates!%20Lets%20make%20something%20great%20together!">hello@example.com</a></p>
+  - name: ご参加に関するお問い合わせ
+    description: <p>下記サイトにて一括して募集を承っています。同サイト内の募集要項をご確認いただき、お気軽にご連絡ください：</p><br/><p>  <a class="accent-text bold-text" href="https://www.net-menber.com/">スポーツやろうよ！※※※＠バド</a></p>
+  - name: 代表へのご連絡
+    description: <p>その他にお問い合わせがございましたら、代表にご連絡ください：</p><br/><p> <a class="accent-text bold-text" href="mailto:hello@example.com?subject=Hello,%20Yates!%20Lets%20make%20something%20great%20together!"> otoiawase-yo_at_mail.account</a>（代表＊＊宛） </p>        
+  - name: サイトの不具合等に関するお問い合わせ
+    description: <p>もしサイトの不具合・著作権上の問題等がございましたら下記の GitHub リンクから New issue として、お気軽にご報告・お問い合わせください：</p><br/><p> <a class="accent-text bold-text" href="https://github.com/oshw-tokyo/site-badminton-relation-bunkyo/issues"> GitHub issue 発行ページ </a> （※ GitHub のアカウントが必要です）</p>  
+    class: line        
+
 ---

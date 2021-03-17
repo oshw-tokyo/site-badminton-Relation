@@ -1,10 +1,10 @@
 ---
-title: About me
-date: 2017-11-08T16:56:15+02:00
+title: About us
+date: 2021/03/17T06:06:06+09:00
 draft: false
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores porro voluptas esse natus nemo aperiam asperiores velit neque, magni molestiae!
+description: 準備中です。
 header:
-  description: I'm a multidisciplinary designer who specializing in <span class="accent-text">UI, UX and Visual Design</span>. Currently based in United Kingdom.
+  description: 東京のバドミントンチームです。現在、メンバーを募集しています。
   image:
     url: about-hero.png
     alt: The designer's workspace table image
@@ -15,14 +15,26 @@ header:
     - options: 700x420 Center
     - options: 490x318 Center
 text_groups:
-  - name: About
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis saepe perferendis culpa aut libero, <span class="default-text bold-text">voluptatem voluptatum</span>, ut beatae ipsa sint alias autem ipsum ea quibusdam suscipit provident illo nihil nostrum porro. Omnis et hic eum in corrupti dicta cum fugiat!
-  - name: Philosophy
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus incidunt autem quia aliquid officia temporibus saepe ut quas nesciunt dolorum odio optio perspiciatis rem accusamus expedita nemo quis, fuga voluptatem. Corrupti vero asperiores officia, ipsa ipsam. Suscipit repellendus molestias, sint quas voluptates quia vitae quidem.
-  - name: Disciplines
-    description: <p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid, excepturi!</p>
-  - name: Get in touch
-    description: <a class="accent-text bold-text" href="mailto:hello@example.com?subject=Hello,%20Yates!%20Lets%20make%20something%20great%20together!">hello@example.com</a>
+  - name: このサークルについて
+    description: 2021年3月からスタートした東京の文京区を中心としたバドミントンチームです。現在、メンバーを募集しています。
+  - name: サークルの目標
+    description: 参加した誰もが楽しいと思えるサークルにする！
+  - name: 活動場所
+    description: 東京都内で、主に文京区周辺の区で活動しています。
+  - name: こんな人を募集
+    description: <span class="accent-text">男女問わず、経験未経験問わず、年齢問わず楽しく仲良くでき、バドミントンに興味がある方</span>を募集しています。    
+  - name: サークルのメンバー
+    description: 年齢は20代～50代と幅広いです。
+
+  - name: 活動内容
+    description: <p>・準備運動（各自）</p><p>・基礎打ち（30分程度）</p><p>・ダブルス形式での試合（レベル分けに対応）</p><p>・ミックスダブルス試合</p><p>（※その他、レクリエーションについては検討中です）</p>
+    class: line
+  - name: 参加費
+    description: １回 １,０００円
+
+
+  - name: 参加に関するお問い合わせ
+    description: 現在、メンバーを募集中です。<a class="accent-text bold-text" href="https://www.net-menber.com/">スポーツやろうよ！</a>からご連絡ください。
     class: line
 ---
 

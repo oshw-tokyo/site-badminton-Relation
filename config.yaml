@@ -4,11 +4,11 @@ defaultContentLanguage: ja
 languages:
   ja:
     languageName: Japanese
-    # weight: 20
+    weight: 10
     # title: 日本むかし話
   en:
     languageName: English
-    # weight: 10
+    weight: 20
     # title: "Japanese Old Tales"
 
 #deployment
@@ -25,12 +25,12 @@ menu:
   - name: About Us
     weight: 1
     url: /about
-  - name: Site
-    weight: 2
-    url: /site
   - name: Schedule
-    weight: 3
+    weight: 2
     url: /schedule
+  - name: Site
+    weight: 3
+    url: /site    
   - name: Contact
     weight: 4
     url: /contact
@@ -40,3 +40,4 @@ params:
   env: development
   logoImage: img/logo.png
   logoImageAlt: Yourfolio Theme brand logo
+

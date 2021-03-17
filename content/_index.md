@@ -1,17 +1,17 @@
 ---
 title: Home page
-date: 2017-11-01T18:28:28+02:00
+date: 2021/03/17T06:06:06+09:00
 draft: false
-description: こちらはテストサイトです。
+description: 準備中。。。
 
 header:
-  description: こんにちは！こちらはテストサイトです。 <span class="accent-text">文京区を中心としたバドミントンサークル</span>です。
+  description: こんにちは！こちらは<span class="accent-text">文京区周辺</span>を中心に活動する<span class="accent-text">特定のラケット競技サークル</span>向けのテスト・デモサイトです。
   image:
     url: home-hero.png
-    alt: The top of mountain image
+    alt: imege of badominton
     media: "(max-width: 46.25em)"
     params:
-    - options: 5184x3456
+    - options: 1130x500
     - options: 848x443
       cmd: Fit
     - options: 565x420
@@ -20,12 +20,11 @@ header:
       cmd: Fit
 text_groups:
   - name: はじめに
-    description: ここに簡単な紹介などをいれてもよいかもしれません。「スポーツやろうよ！」での募集の項目のうち、目的にあたるところなどをスッキリおさめられたらよいのかなかなと考えています。文章の分だけ枠が大きくなります。
-
+    description: 2021年4月から本格的に活動を開始する東京の文京区を中心としたバドミントンサークル（のテストサイト）です。参加した誰もが楽しいと思えるサークルを目標にしています。現在、メンバーを募集しています。
 projects:
-  - title: フリー素材
-    type: i.e., Unsplash
-    link: https://unsplash.com/s/photos/shuttlecock
+  - title: Gallary 
+    type: ホームページにはフリー素材を利用しています。
+    link: https://unsplash.com/photos/hpjSkU2UYSU
     image:
       url: works/strato.jpg
       alt: The Strato web design theme
@@ -34,10 +33,10 @@ projects:
       - options: 1130x590
       - options: 848x443
       - options: 565x420
-      - options: 360x318 Left
-  - title: 更新
-    type: GitHub
-    link: https://github.com/oshw-tokyo/site-badminton-relation-bunkyo
+      - options: 360x318 Left    
+  - title: About us 
+    type: 誰でも参加しやすいバドミントンサークル。初心者〜経験者まで。文京区中心。
+    link: https://oshw-tokyo.github.io/site-badminton-relation-bunkyo/about/
     class: short-col
     image:
       url: works/analytik.jpg
@@ -48,22 +47,22 @@ projects:
       - options: 848x443 Top
       - options: 565x420
       - options: 360x318
-  - title: 活動場所？
-    type: Site
-    link: https://unsplash.com/photos/ir5lIkVFqC4
+  - title: Schedule
+    type: 週一回程度、土日
+    link: https://oshw-tokyo.github.io/site-badminton-relation-bunkyo/schedule/
     class: wide-col
     image:
       url: works/friends.jpg
       alt: The Friends theme
       media: "(max-width: 46.25em)"
       params:
-      - options: 746x590 Left
+      - options: 746x590 Right
       - options: 848x443 Top
-      - options: 565x420 Left
+      - options: 565x420 Right
       - options: 360x318 Center
-  - title: Food
-    type: web design
-    link: https://unsplash.com/photos/JVSgcV8_vb4
+  - title: Site
+    type: 文京区からアクセスの良い体育館
+    link: https://oshw-tokyo.github.io/site-badminton-relation-bunkyo/site
     class: wide-col
     image:
       url: works/food.jpg
@@ -74,16 +73,16 @@ projects:
       - options: 848x443 Center
       - options: 565x420 Center
       - options: 360x318 Center
-  - title: StatApp
-    type: UI/UX
-    link: https://unsplash.com/photos/nJX74kn1yn4
+  - title: Contact
+    type: 参加のご希望などお問い合わせ
+    link: https://oshw-tokyo.github.io/site-badminton-relation-bunkyo/contact/
     class: short-col
     image:
       url: works/statapp.jpg
       alt: The application for statistic
       media: "(max-width: 46.25em)"
       params:
-      - options: 364x590 Left
+      - options: 364x590 Right
       - options: 848x443
       - options: 565x420 Center
       - options: 360x318 Center
