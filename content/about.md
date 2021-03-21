@@ -4,7 +4,7 @@ date: 2021/03/17T06:06:06+09:00
 draft: false
 description:  東京のバドミントンサークル「リレーションです」です。「縁」を大切にしたいと考えて、この名前にしました。
 header:
-  description: <span class="accent-text">2021年春から</span>スタートした東京の<span class="accent-text">バドミントンサークル「リレーション」</span>です。
+  description: わたしたち<span class="accent-text">「リレーション」</span>は、参加した<span class="accent-text">誰もが楽しいと思えることを目標にしたバドミントンサークル</span>です。
   image:
     url: tmp-hero.png
     alt: The designer's workspace table image
@@ -37,7 +37,7 @@ text_groups:
 
 
   - name: 参加に関するお問い合わせ
-    description: 現在、メンバーを募集中です。<a class="accent-text bold-text" href="https://www.net-menber.com/">スポーツやろうよ！</a>からご連絡ください。
+    description: 現在、メンバーを募集中です。<a class="accent-text bold-text" href="https://www.net-menber.com/look/data/129098.html">スポーツやろうよ！</a>からご連絡ください。
     class: line
 ---
 

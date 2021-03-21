@@ -20,11 +20,11 @@ header:
       cmd: Fit
 text_groups:
   - name: はじめに
-    description: 2021年春からスタートした東京都文京区とその周辺を中心で活動するバドミントンサークルです。初心者から経験者まで、参加した誰もが楽しいと思えるサークルを目標にしています。現在、メンバーを募集しています。
+    description:  こんにちは！<span class="accent-text">2021年春から</span>スタートした東京の<span class="accent-text">バドミントンサークル「リレーション」</span>です。
 projects:
   - title: Schedule 
     type: 練習日程など。
-    link: https://oshw-tokyo.github.io/site-badminton-relation/schedule/
+    link: https://oshw-tokyo.github.io/site-badminton-relation-bunkyo/schedule/
     image:
       url: works/schedule.jpg
       alt: The Strato web design theme
@@ -36,7 +36,7 @@ projects:
       - options: 360x318 Left    
   - title: About us 
     type: 全員が楽しく参加できる東京のバドミントンサークル。
-    link: https://oshw-tokyo.github.io/site-badminton-relation/about/
+    link: https://oshw-tokyo.github.io/site-badminton-bunkyo/about/
     class: short-col
     image:
       url: works/about.jpg
@@ -48,8 +48,8 @@ projects:
       - options: 565x420
       - options: 360x318
   - title: Contact
-    type: 参加のご希望など
-    link: https://oshw-tokyo.github.io/site-badminton-relation/contact/
+    type: 参加をご希望の方はこちら。
+    link: https://oshw-tokyo.github.io/site-badminton-relation-bunkyo/contact/
     class: wide-col
     image:
       url: works/contact.jpg
