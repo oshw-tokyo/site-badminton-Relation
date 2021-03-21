@@ -2,10 +2,11 @@
 title: Home page
 date: 2021/03/17T06:06:06+09:00
 draft: false
-description: こんにちは！こちらは<span class="accent-text">バドミントンサークルの「リレーション」</span>のです。<span class="accent-text">文京区の周辺</span>を中心に活動しています。<span class="accent-text">このページは現在準備中です。</span>
+description: こんにちは！
 
 header:
-  description: こんにちは！<span class="accent-text">2021年春から</span>スタートした<span class="accent-text">東京のバドミントンサークル「リレーション」</span>です。
+  description: こんにちは！<span class="accent-text">東京都文京区の周辺</span>を中心に活動している#<span class="accent-text">バドミントンサークル「リレーション」</span>です。
+  image: 
     url: tmp-hero.png
     alt: imege of badominton
     media: "(max-width: 46.25em)"
