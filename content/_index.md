@@ -5,7 +5,7 @@ draft: false
 description: こんにちは！
 
 header:
-  description: こんにちは！<span class="accent-text">東京都文京区の周辺</span>を中心に活動している#<span class="accent-text">バドミントンサークル「リレーション」</span>です。
+  description: こんにちは！<span class="accent-text">2021年春から</span>スタートした<span class="accent-text">東京のバドミントンサークル「リレーション」</span>です。
   image: 
     url: tmp-hero.png
     alt: imege of badominton
