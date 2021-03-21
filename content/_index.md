@@ -5,7 +5,7 @@ draft: false
 description: こんにちは！こちらは<span class="accent-text">バドミントンサークルの「リレーション」</span>のです。<span class="accent-text">文京区の周辺</span>を中心に活動しています。<span class="accent-text">このページは現在準備中です。</span>
 
 header:
-  description: こんにちは！こちらは<span class="accent-text">バドミントンサークル「リレーション」</span>のサイトです。<span class="accent-text">文京区の周辺</span>を中心に活動しています。<span class="accent-text">このページは現在準備中です。</span>
+  description: こんにちは！<span class="accent-text">東京都文京区の周辺</span>を中心に活動している<span class="accent-text">バドミントンサークル「リレーション」</span>です。
   image:
     url: tmp-hero.png
     alt: imege of badominton
@@ -35,7 +35,7 @@ projects:
       - options: 565x420
       - options: 360x318 Left    
   - title: About us 
-    type: 全員が楽しく参加できるバドミントンサークル。文京区中心。
+    type: 全員が楽しく参加できる東京のバドミントンサークル。
     link: https://oshw-tokyo.github.io/site-badminton-relation/about/
     class: short-col
     image:
@@ -48,7 +48,7 @@ projects:
       - options: 565x420
       - options: 360x318
   - title: Contact
-    type: 参加のご希望などのお問い合わせ
+    type: 参加のご希望など
     link: https://oshw-tokyo.github.io/site-badminton-relation/contact/
     class: wide-col
     image:
