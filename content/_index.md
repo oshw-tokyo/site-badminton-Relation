@@ -5,8 +5,7 @@ draft: false
 description: こんにちは！こちらは<span class="accent-text">バドミントンサークルの「リレーション」</span>のです。<span class="accent-text">文京区の周辺</span>を中心に活動しています。<span class="accent-text">このページは現在準備中です。</span>
 
 header:
-  description: こんにちは！<span class="accent-text">東京都文京区の周辺</span>を中心に活動している<span class="accent-text">バドミントンサークル「リレーション」</span>です。
-  image:
+  description: こんにちは！<span class="accent-text">2021年春から</span>スタートした<span class="accent-text">東京のバドミントンサークル「リレーション」</span>です。
     url: tmp-hero.png
     alt: imege of badominton
     media: "(max-width: 46.25em)"
@@ -20,7 +19,7 @@ header:
       cmd: Fit
 text_groups:
   - name: はじめに
-    description:  こんにちは！<span class="accent-text">2021年春から</span>スタートした東京の<span class="accent-text">バドミントンサークル「リレーション」</span>です。
+    description: 2021年春からスタートした東京都文京区とその周辺を中心で活動するバドミントンサークルです。初心者から経験者まで、参加した誰もが楽しいと思えるサークルを目標にしています。現在、メンバーを募集しています。
 projects:
   - title: Schedule 
     type: 練習日程など。
