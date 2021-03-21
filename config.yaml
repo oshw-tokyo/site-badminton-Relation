@@ -22,16 +22,16 @@ googleAnalytics: UA-XXXXX-Y
 # Menu items
 menu:
   main:
-  - name: About Us
+  - name: このサークルについて
     weight: 1
     url: /about
-  - name: Schedule
+  - name: スケジュール
     weight: 2
     url: /schedule
-  - name: Site
-    weight: 3
-    url: /site    
-  - name: Contact
+  # - name: 主な活動場所
+  #   weight: 3
+  #   url: /site    
+  - name: お問い合わせ
     weight: 4
     url: /contact
 

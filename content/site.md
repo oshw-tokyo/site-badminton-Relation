@@ -5,7 +5,7 @@ draft: false
 description: 準備中。。。
 
 header:
-  description: 主な活動場所
+  description: 主な活動場所について（※準備中です）
   image:
     url: contact-hero.png
     alt: The chair for meeting image
