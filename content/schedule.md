@@ -34,7 +34,7 @@ header:
 
 text_groups:
   - name: 練習・イベント日程 
-    description: <p>詳細（最新の日程と空きのご確認、また参加のご連絡は、サークルのグループラインまたは「スポーツやろうよ」からお願いします）</p>
+    description: <p>詳細（最新の日程や空き状況などは、サークルのグループラインまたは「スポーツやろうよ」からご確認ください）</p>
 
   - name: 2021/5/02(日) 
     description: <p>16:30〜19:00 </p><p>4面・定員32名（募集中）</p><p><a class="accent-text bold-text" href="https://www.google.com/maps/place/%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%AB%8B+%E6%96%B0%E5%AE%BF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@35.7061035,139.7019912,16z/data=!4m12!1m6!3m5!1s0x60188d23c728a871:0x1b86721ec7a09499!2z5paw5a6_5Yy656uLIOaWsOWuv-OCueODneODvOODhOOCu-ODs-OCv-ODvA!8m2!3d35.706966!4d139.705521!3m4!1s0x60188d23c728a871:0x1b86721ec7a09499!8m2!3d35.706966!4d139.705521">新宿区立 新宿スポーツセンター：MAP</a></p>
@@ -49,13 +49,13 @@ text_groups:
     description: <p>15:30〜18:00 </p><p>3面・定員24名（募集中）</p><p><a class="accent-text bold-text" href="https://www.google.co.jp/maps/place/%E6%96%87%E4%BA%AC%E7%B7%8F%E5%90%88%E4%BD%93%E8%82%B2%E9%A4%A8/@35.7073842,139.7634505,16.25z/data=!3m1!5s0x60188c24a5e551df:0x5bd3afa9705c922c!4m5!3m4!1s0x60188c2479202e17:0x73dd1227ee7c8606!8m2!3d35.7081372!4d139.763335?hl=ja">文京総合体育館：MAP</a></p>
   
   - name: 2021/4/11(日) 第1部
-    description: <p>12:30〜15:00 </p><p>4面・定員32名（募集中）</p><p><a class="accent-text bold-text" href="https://www.google.co.jp/maps/place/%E8%91%9B%E9%A3%BE%E5%8C%BA%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E4%BD%93%E8%82%B2%E9%A4%A8/@35.7377755,139.859987,17z/data=!3m1!4b1!4m5!3m4!1s0x6018854641843907:0x139b6901761fc638!8m2!3d35.7377755!4d139.8621757?hl=ja">奥戸（葛飾区）総合スポーツセンター（葛飾区総合スポーツセンター体育館）：MAP<i class="fa fa-external-link"></i></a></
+    description: <p>12:30〜15:00 </p><p>4面・定員32名（募集中）</p><p><a class="accent-text bold-text" href="https://www.google.co.jp/maps/place/%E8%91%9B%E9%A3%BE%E5%8C%BA%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E4%BD%93%E8%82%B2%E9%A4%A8/@35.7377755,139.859987,17z/data=!3m1!4b1!4m5!3m4!1s0x6018854641843907:0x139b6901761fc638!8m2!3d35.7377755!4d139.8621757?hl=ja">葛飾区奥戸総合スポーツセンター：MAP<i class="fa fa-external-link"></i></a></
   - name: 2021/4/11(日) 第2部
-    description: <p>15:30〜18:00 </p><p>4面・定員32名（募集中）</p><p><a class="accent-text bold-text" href="https://www.google.co.jp/maps/place/%E8%91%9B%E9%A3%BE%E5%8C%BA%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E4%BD%93%E8%82%B2%E9%A4%A8/@35.7377755,139.859987,17z/data=!3m1!4b1!4m5!3m4!1s0x6018854641843907:0x139b6901761fc638!8m2!3d35.7377755!4d139.8621757?hl=ja">奥戸（葛飾区）総合スポーツセンター体育館：MAP<i class="fa fa-external-link"></i></a></
+    description: <p>15:30〜18:00 </p><p>4面・定員32名（募集中）</p><p><a class="accent-text bold-text" href="https://www.google.co.jp/maps/place/%E8%91%9B%E9%A3%BE%E5%8C%BA%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E4%BD%93%E8%82%B2%E9%A4%A8/@35.7377755,139.859987,17z/data=!3m1!4b1!4m5!3m4!1s0x6018854641843907:0x139b6901761fc638!8m2!3d35.7377755!4d139.8621757?hl=ja">葛飾区奥戸総合スポーツセンター体育館：MAP<i class="fa fa-external-link"></i></a></
 
   - name: 2021/3/21(日) （終了）
     description: <p>12:30〜15:00 </p><p>※満員</p><p><a class="accent-text bold-text" href="https://www.google.com/maps/place/%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%AB%8B+%E6%96%B0%E5%AE%BF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@35.7061035,139.7019912,16z/data=!4m12!1m6!3m5!1s0x60188d23c728a871:0x1b86721ec7a09499!2z5paw5a6_5Yy656uLIOaWsOWuv-OCueODneODvOODhOOCu-ODs-OCv-ODvA!8m2!3d35.706966!4d139.705521!3m4!1s0x60188d23c728a871:0x1b86721ec7a09499!8m2!3d35.706966!4d139.705521">新宿区立 新宿スポーツセンター：MAP</a></p>
     class: line
   - name: 2021/3/07(日) プレ実施（終了）
-    description: <p>12:30〜15:00 </p><p>募集：若干名</p><p><a class="accent-text bold-text" href="https://www.google.co.jp/maps/place/%E8%91%9B%E9%A3%BE%E5%8C%BA%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E4%BD%93%E8%82%B2%E9%A4%A8/@35.7377755,139.859987,17z/data=!3m1!4b1!4m5!3m4!1s0x6018854641843907:0x139b6901761fc638!8m2!3d35.7377755!4d139.8621757?hl=ja">奥戸（葛飾区）総合スポーツセンター 体育館：MAP <i class="fa fa-external-link"></i></a></p>                 
+    description: <p>12:30〜15:00 </p><p>募集：若干名</p><p><a class="accent-text bold-text" href="https://www.google.co.jp/maps/place/%E8%91%9B%E9%A3%BE%E5%8C%BA%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E4%BD%93%E8%82%B2%E9%A4%A8/@35.7377755,139.859987,17z/data=!3m1!4b1!4m5!3m4!1s0x6018854641843907:0x139b6901761fc638!8m2!3d35.7377755!4d139.8621757?hl=ja">葛飾区奥戸総合スポーツセンター 体育館：MAP <i class="fa fa-external-link"></i></a></p>                 
 ---
