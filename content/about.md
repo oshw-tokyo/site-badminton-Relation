@@ -4,7 +4,7 @@ date: 2021/03/17T06:06:06+09:00
 draft: false
 description:  東京のバドミントンサークル「リレーションです」です。「縁」を大切にしたいと考えて、この名前にしました。
 header:
-  description: わたしたち<span class="accent-text">「リレーション」</span>は、参加した<span class="accent-text">誰もが楽しいと思えることを目標にしたバドミントンサークル</span>です。
+  description: わたしたち<span class="accent-text">「リレーション」</span>は、参加した<span class="accent-text">誰もが楽しい</span>と思えることを目標にしたバドミントンサークルです。
   image:
     url: tmp-hero.png
     alt: The designer's workspace table image
@@ -16,9 +16,9 @@ header:
     - options: 490x318 Center
 text_groups:
   - name: このサークルについて
-    description: 2021年3月からスタートした東京の文京区を中心としたバドミントンチームです。<span class="accent-text">現在、メンバーを募集</span>しています！
+    description: 2021年3月からスタートした東京の文京区とその周辺の区を中心としたバドミントンチームです。<span class="accent-text">現在、メンバーを募集</span>しています！
   - name: サークルの目標
-    description: 参加した誰もが楽しいと思えるサークルにすることです！
+    description: 初心者から経験者までみんなが参加して楽しいと思えるサークルにすることです！
   - name: 活動場所
     description: 東京都内で、主に文京区とその周辺の区で活動しています。
   - name: こんな人を募集
