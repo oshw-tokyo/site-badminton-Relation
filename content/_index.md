@@ -24,7 +24,7 @@ text_groups:
 projects:
   - title: Schedule 
     type: 練習日程など。
-    link: https://oshw-tokyo.github.io/site-badminton-relation-bunkyo/schedule/
+    link: https://badminton-relation.tokyo/schedule/
     image:
       url: works/schedule.jpg
       alt: The Strato web design theme
@@ -36,7 +36,7 @@ projects:
       - options: 360x318 Left    
   - title: About us 
     type: 全員が楽しく参加できる東京のバドミントンサークル。
-    link: https://oshw-tokyo.github.io/site-badminton-relation-bunkyo/about/
+    link: https://badminton-relation.tokyo/about/
     class: short-col
     image:
       url: works/about.jpg
@@ -49,7 +49,7 @@ projects:
       - options: 360x318
   - title: Contact
     type: 参加をご希望の方はこちら。
-    link: https://oshw-tokyo.github.io/site-badminton-relation-bunkyo/contact/
+    link: https://badminton-relation.tokyo/contact/
     class: wide-col
     image:
       url: works/contact.jpg

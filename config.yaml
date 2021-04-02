@@ -1,4 +1,5 @@
-baseURL: https://oshw-tokyo.github.io/site-badminton-relation-bunkyo
+# baseURL: https://oshw-tokyo.github.io/site-badminton-relation-bunkyo
+baseURL: https://badminton-relation.tokyo
 defaultContentLanguage: ja
 
 languages:
