@@ -166,7 +166,7 @@ ul {
   .category.line {
     margin: 0; }
   .category-label {
-    font-size: 1.6em;
+    font-size: 1.8em;
     font-weight: 700;
     text-transform: uppercase;
     margin-bottom: 0.472em; }
