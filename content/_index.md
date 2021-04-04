@@ -2,7 +2,7 @@
 title: Home page
 date: 2021/03/17T06:06:06+09:00
 draft: false
-description: こんにちは！
+description: 2021年春からスタートした東京都文京区を中心に活動するバドミントンサークル「リレーション」のサイトです。
 
 header:
   description: こんにちは！<span class="accent-text">2021年春から</span>スタートした<span class="accent-text">バドミントンサークル「リレーション」</span>です。

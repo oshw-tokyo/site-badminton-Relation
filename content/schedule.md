@@ -2,10 +2,10 @@
 title: Schedule home
 date: 2021/03/17T06:06:06+09:00
 draft: false
-description: 日程を追加中です。ぜひご参加ください！
+description: バドミントンサークル「リレーション」の練習日程です。逐次、日程を追加中です。ぜひご参加ください！
 
 header:
-  description: 随時、日程を追加中です！ぜひご参加ください。
+  description: 日程を追加中です！ぜひご参加ください。
   image:
     url: tmp-hero.png
     alt: schedule image, such as calender, or that on smartphone

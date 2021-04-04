@@ -2,7 +2,7 @@
 title: Contact
 date: 2017-11-09T14:50:58+02:00
 draft: false
-description: <span class="accent-text">現在、メンバーを募集</span>しています！
+description: バドミントンサークル「リレーション」では現在、メンバーを募集しています！コンタクトはこちらから。
 header:
   description: <span class="accent-text">現在、メンバーを募集</span>しています！
   image:
