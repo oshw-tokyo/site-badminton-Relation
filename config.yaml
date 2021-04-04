@@ -12,6 +12,10 @@ languages:
     weight: 20
     # title: "Japanese Old Tales"
 
+# Font
+custom_css = ["css/custom-font.css"]
+
+
 #deployment
 publishdir: docs
 
