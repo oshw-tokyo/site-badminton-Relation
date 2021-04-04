@@ -12,6 +12,10 @@
   </url>
   
   <url>
+    <loc>https://badminton-relation.tokyo/schedule/</loc>
+  </url>
+  
+  <url>
     <loc>https://badminton-relation.tokyo/</loc>
     <xhtml:link
                 rel="alternate"
@@ -23,10 +27,6 @@
                 hreflang="ja"
                 href="https://badminton-relation.tokyo/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://badminton-relation.tokyo/schedule/</loc>
   </url>
   
 </urlset>
