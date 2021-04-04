@@ -4,7 +4,7 @@ date: 2021/03/17T06:06:06+09:00
 draft: false
 description:  東京のバドミントンサークル「リレーションです」です。「縁」を大切にしたいと考えて、この名前にしました。
 header:
-  description: わたしたち<span class="accent-text">「リレーション」</span>は、参加した<span class="accent-text">誰もが楽しい</span>と思えることを目標にしたバドミントンサークルです。
+  description: <span class="accent-text">バドミントンサークル「リレーション」</span>は参加した<span class="accent-text">誰もが楽しい</span>と思えることを目標に活動しています。
   image:
     url: tmp-hero.png
     alt: The designer's workspace table image
