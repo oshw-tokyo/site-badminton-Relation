@@ -20,7 +20,7 @@ text_groups:
   - name: サークルの目標
     description: 初心者から経験者までみんなが参加して楽しいと思えるサークルにすることです！
   - name: 活動場所
-    description: 東京都内で、主に文京区とその周辺の区で活動しています。
+    description: <span class="accent-text">東京都内で、主に文京区とその周辺の区</span>で活動しています。
   - name: こんな人を募集
     description: <span class="accent-text">男女問わず、経験未経験問わず、年齢問わず楽しく仲良くでき、バドミントンに興味がある方</span>を募集しています。    
   - name: サークルのメンバー
@@ -36,7 +36,7 @@ text_groups:
     description: 1 回 1,000 円程度
 
 
-  - name: 参加に関するお問い合わせ
+  - name: 新規のご参加に関するお問い合わせ
     description: 現在、メンバーを募集中です。<a class="accent-text bold-text" href="https://www.net-menber.com/look/data/129098.html">スポーツやろうよ！</a>からご連絡ください。
     class: line
 ---

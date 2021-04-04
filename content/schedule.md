@@ -5,7 +5,7 @@ draft: false
 description: 日程を追加中です。ぜひご参加ください！
 
 header:
-  description: 日程を追加中です。ぜひご参加ください！
+  description: 日程を追加中です！ぜひご参加ください。
   image:
     url: tmp-hero.png
     alt: schedule image, such as calender, or that on smartphone
@@ -34,7 +34,7 @@ header:
 
 text_groups:
   - name: 練習日程 
-    description: <p>詳細（最新の日程や空き状況などは、サークルのグループ LINE または「スポーツやろうよ」からご確認ください）</p>
+    description: <p>詳細（最新の日程や空き状況などは、サークルのグループ LINE または「スポーツやろうよ」でご確認ください）</p>
 
   - name: 2021/5/02(日) 
     description: <p>16:30〜19:00 </p><p>4面・定員32名（募集中）</p><p><a class="accent-text bold-text" href="https://www.google.com/maps/place/%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%AB%8B+%E6%96%B0%E5%AE%BF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@35.7061035,139.7019912,16z/data=!4m12!1m6!3m5!1s0x60188d23c728a871:0x1b86721ec7a09499!2z5paw5a6_5Yy656uLIOaWsOWuv-OCueODneODvOODhOOCu-ODs-OCv-ODvA!8m2!3d35.706966!4d139.705521!3m4!1s0x60188d23c728a871:0x1b86721ec7a09499!8m2!3d35.706966!4d139.705521">新宿区立 新宿スポーツセンター：MAP</a></p>
