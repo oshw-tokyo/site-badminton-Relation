@@ -35,7 +35,7 @@ projects:
       - options: 565x420
       - options: 360x318 Left    
   - title: About us 
-    type: 全員が楽しく参加できる東京のバドミントンサークル。
+    type: 初心者から上級者まで、全員が楽しくバドミントンできるサークル。
     link: https://badminton-relation.tokyo/about/
     class: short-col
     image:
