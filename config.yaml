@@ -2,6 +2,8 @@
 baseURL: https://badminton-relation.tokyo
 defaultContentLanguage: ja
 
+# googleAnalytics : "G-XJLECPRSN"
+
 languages:
   ja:
     languageName: Japanese
