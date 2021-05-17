@@ -1,6 +1,6 @@
 ---
-title: Contact
-date: 2017-11-09T14:50:58+02:00
+title: お問い合わせ（Contact Info）
+date: 2021-04-04T0:10:20+09:00
 draft: false
 description: バドミントンサークル「リレーション」では現在、メンバーを募集しています！コンタクトはこちらから。
 header:

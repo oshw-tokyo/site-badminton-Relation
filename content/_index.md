@@ -1,5 +1,5 @@
 ---
-title: Home page
+title: トップページ(Top Page)
 date: 2021/03/17T06:06:06+09:00
 draft: false
 description: 2021年春からスタートした東京都文京区を中心に活動するバドミントンサークル「リレーション」のサイトです。

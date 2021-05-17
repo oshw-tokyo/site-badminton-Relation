@@ -1,5 +1,5 @@
 # baseURL: https://oshw-tokyo.github.io/site-badminton-relation-bunkyo
-baseURL: https://badminton-relation.tokyo
+baseURL: https://www.badminton-relation.tokyo
 defaultContentLanguage: ja
 
 # googleAnalytics : "G-XJLECPRSN"
@@ -21,7 +21,7 @@ custom_css : ["css/custom-font.css"]
 #deployment
 publishdir: docs
 
-title: Here is the title 1... Preparing
+title: 東京のバドミントンサークル「リレーション」のサイトです。
 theme: yourfolio
 disableKinds: [RSS, taxonomy, taxonomyTerm]
 googleAnalytics: UA-XXXXX-Y
@@ -37,7 +37,7 @@ menu:
     url: /schedule
   # - name: 主な活動場所
   #   weight: 3
-  #   url: /site    
+  #   url: /site
   - name: お問い合わせ
     weight: 4
     url: /contact

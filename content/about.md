@@ -1,5 +1,5 @@
 ---
-title: About us
+title: わたしたちについて(About Us)
 date: 2021/03/17T06:06:06+09:00
 draft: false
 description:  バドミントンサークル「リレーション」は参加した誰もが楽しい</span>と思えることを目標に活動しています。

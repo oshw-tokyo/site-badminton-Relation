@@ -1,5 +1,5 @@
 ---
-title: Schedule home
+title: スケジュール（Schedule）
 date: 2021/03/17T06:06:06+09:00
 draft: false
 description: バドミントンサークル「リレーション」の練習日程です。逐次、日程を追加中です。ぜひご参加ください！
