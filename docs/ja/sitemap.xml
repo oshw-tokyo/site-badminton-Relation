@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.badminton-relation.tokyo/contact/</loc>
+    <loc>https://badminton-relation.tokyo/contact/</loc>
     <lastmod>2021-04-04T00:10:20+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.badminton-relation.tokyo/about/</loc>
+    <loc>https://badminton-relation.tokyo/about/</loc>
   </url>
   
   <url>
-    <loc>https://www.badminton-relation.tokyo/schedule/</loc>
+    <loc>https://badminton-relation.tokyo/schedule/</loc>
   </url>
   
   <url>
-    <loc>https://www.badminton-relation.tokyo/</loc>
+    <loc>https://badminton-relation.tokyo/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.badminton-relation.tokyo/en/"
+                href="https://badminton-relation.tokyo/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.badminton-relation.tokyo/"
+                href="https://badminton-relation.tokyo/"
                 />
   </url>
   
