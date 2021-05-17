@@ -6,7 +6,7 @@ description: 2021年春からスタートした東京都文京区を中心に活
 
 header:
   description: こんにちは！<span class="accent-text">2021年春から</span>スタートした<span class="accent-text">バドミントンサークル「リレーション」</span>です。
-  image: 
+  image:
     url: tmp-hero.png
     alt: imege of badominton
     media: "(max-width: 46.25em)"
@@ -22,7 +22,7 @@ text_groups:
   - name: はじめに
     description: 2021年4月から本格的に活動を始めたバドミントンサークルです。初心者から経験者まで、参加した誰もが楽しいと思えるサークルを目標にしています。活動場所は、<span class="accent-text">東京都文京区とその周辺の区</span>の体育館です。<span class="accent-text">現在、メンバーを募集</span>しています！
 projects:
-  - title: Schedule 
+  - title: Schedule
     type: 練習日程など。
     link: https://badminton-relation.tokyo/schedule/
     image:
@@ -33,8 +33,8 @@ projects:
       - options: 1130x590
       - options: 848x443
       - options: 565x420
-      - options: 360x318 Left    
-  - title: About us 
+      - options: 360x318 Left
+  - title: About us
     type: 初心者から上級者まで、全員が楽しくバドミントンできるサークル。
     link: https://badminton-relation.tokyo/about/
     class: short-col
