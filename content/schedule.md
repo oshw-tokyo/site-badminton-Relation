@@ -36,39 +36,39 @@ text_groups:
   - name: 練習日程
     description: <p>※最新の日程や空き状況などは、サークルのグループ LINE または「スポーツやろうよ」でご確認ください（こちらのスケジュールは週１回程度を目標に反映しています）。</p>
 
-  - name: 2021/7/11(日) 第1部
-    description: <p>12:30〜15:00 </p><p>3面・定員24名（※募集中）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
+  - name: 2021/7/11(日) 第1部（※募集中）
+    description: <p>12:30〜15:00 </p><p>3面・定員24名</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
 
-  - name: 2021/7/11(日) 第2部
-    description: <p>15:30〜18:00 </p><p>3面・定員24名（※募集中）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
-
-
-  - name: 2021/6/20(日) 第1部
-    description: <p> 9:00〜12:00 </p><p>4面・定員32名（※募集中）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
-
-  - name: 2021/6/20(日) 第2部
-    description: <p>12:00〜15:00 </p><p>4面・定員32名（※募集中）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
+  - name: 2021/7/11(日) 第2部（※募集中）
+    description: <p>15:30〜18:00 </p><p>3面・定員24名</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
 
 
-  - name: 2021/6/13(日) 第1部
-    description: <p>12:30〜15:00 </p><p>4面・定員32名（※募集中）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
+  - name: 2021/6/20(日) 第1部（※募集中）
+    description: <p> 9:00〜12:00 </p><p>4面・定員32名</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
 
-  - name: 2021/6/13(日) 第2部
-    description: <p>15:30〜18:00 </p><p>4面・定員32名（※募集中）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
-
-
-  - name: 2021/6/06(日) 第1部
-    description: <p>12:30〜15:00 </p><p>3面・定員24名（※満員）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
-
-  - name: 2021/6/06(日) 第2部
-    description: <p>15:30〜18:00 </p><p>3面・定員24名（※募集中）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
+  - name: 2021/6/20(日) 第2部（※募集中）
+    description: <p>12:00〜15:00 </p><p>4面・定員32名</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
 
 
-  - name: 2021/5/05(日)
+  - name: 2021/6/13(日) 第1部（※募集中）
+    description: <p>12:30〜15:00 </p><p>4面・定員32名</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
+
+  - name: 2021/6/13(日) 第2部（※募集中）
+    description: <p>15:30〜18:00 </p><p>4面・定員32名</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
+
+
+  - name: 2021/6/06(日) 第1部（※満員）
+    description: <p>12:30〜15:00 </p><p>3面・定員24名</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
+
+  - name: 2021/6/06(日) 第2部（※募集中）
+    description: <p>15:30〜18:00 </p><p>3面・定員24名</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
+
+
+  - name: 2021/5/05(水)※祝日（終了）
     description: <p>17:00〜19:00 </p><p>2面・定員16名</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/PLnMcFfjwhVPJ8MC9">塩浜市民体育館 ：MAP</a></p>
     class: line
 
-  - name: 2021/5/02(日)
+  - name: 2021/5/02(日)（終了）
     description: <p>16:30〜19:00 </p><p>4面・定員32名</p><p><a class="accent-text bold-text" href="https://www.google.com/maps/place/%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%AB%8B+%E6%96%B0%E5%AE%BF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@35.7061035,139.7019912,16z/data=!4m12!1m6!3m5!1s0x60188d23c728a871:0x1b86721ec7a09499!2z5paw5a6_5Yy656uLIOaWsOWuv-OCueODneODvOODhOOCu-ODs-OCv-ODvA!8m2!3d35.706966!4d139.705521!3m4!1s0x60188d23c728a871:0x1b86721ec7a09499!8m2!3d35.706966!4d139.705521">新宿区立 新宿スポーツセンター：MAP</a></p>
 
 
@@ -86,7 +86,7 @@ text_groups:
     description: <p>15:30〜18:00 </p><p>4面・定員32名</p><p><a class="accent-text bold-text" href="https://www.google.co.jp/maps/place/%E8%91%9B%E9%A3%BE%E5%8C%BA%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E4%BD%93%E8%82%B2%E9%A4%A8/@35.7377755,139.859987,17z/data=!3m1!4b1!4m5!3m4!1s0x6018854641843907:0x139b6901761fc638!8m2!3d35.7377755!4d139.8621757?hl=ja">葛飾区奥戸総合スポーツセンター体育館：MAP<i class="fa fa-external-link"></i></a></p><p>ミズノの人工シャトルを使ってみます</p>
 
   - name: 2021/3/21(日) （終了）
-    description: <p>12:30〜15:00 </p><p>※満員</p><p><a class="accent-text bold-text" href="https://www.google.com/maps/place/%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%AB%8B+%E6%96%B0%E5%AE%BF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@35.7061035,139.7019912,16z/data=!4m12!1m6!3m5!1s0x60188d23c728a871:0x1b86721ec7a09499!2z5paw5a6_5Yy656uLIOaWsOWuv-OCueODneODvOODhOOCu-ODs-OCv-ODvA!8m2!3d35.706966!4d139.705521!3m4!1s0x60188d23c728a871:0x1b86721ec7a09499!8m2!3d35.706966!4d139.705521">新宿区立 新宿スポーツセンター：MAP</a></p>
+    description: <p>12:30〜15:00 </p><p></p><p><a class="accent-text bold-text" href="https://www.google.com/maps/place/%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%AB%8B+%E6%96%B0%E5%AE%BF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@35.7061035,139.7019912,16z/data=!4m12!1m6!3m5!1s0x60188d23c728a871:0x1b86721ec7a09499!2z5paw5a6_5Yy656uLIOaWsOWuv-OCueODneODvOODhOOCu-ODs-OCv-ODvA!8m2!3d35.706966!4d139.705521!3m4!1s0x60188d23c728a871:0x1b86721ec7a09499!8m2!3d35.706966!4d139.705521">新宿区立 新宿スポーツセンター：MAP</a></p>
     class: line
   - name: 2021/3/07(日) プレ実施（終了）
     description: <p>12:30〜15:00 </p><p>募集：若干名</p><p><a class="accent-text bold-text" href="https://www.google.co.jp/maps/place/%E8%91%9B%E9%A3%BE%E5%8C%BA%E7%B7%8F%E5%90%88%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E4%BD%93%E8%82%B2%E9%A4%A8/@35.7377755,139.859987,17z/data=!3m1!4b1!4m5!3m4!1s0x6018854641843907:0x139b6901761fc638!8m2!3d35.7377755!4d139.8621757?hl=ja">葛飾区奥戸総合スポーツセンター 体育館：MAP <i class="fa fa-external-link"></i></a></p>
