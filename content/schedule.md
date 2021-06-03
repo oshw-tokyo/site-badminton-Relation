@@ -49,10 +49,10 @@ text_groups:
 
 
   - name: 2021/6/20(日) 第2部 12:00〜15:00
-    description: </p><p>4面・定員32名（※募集中）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
+    description: </p><p>4面・定員32名（※満員）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
 
   - name: 2021/6/20(日) 第1部 9:00〜12:00
-    description: <p>4面・定員32名（※募集中）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
+    description: <p>4面・定員32名（※満員）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
 
 
   - name: 2021/6/13(日) 第2部 15:30〜18:00
